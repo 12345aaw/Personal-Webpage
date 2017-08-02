@@ -1,0 +1,44 @@
+
+
+/* NAVBAR */
+
+.navbar-default .navbar-brand{
+	color: #4d4dff
+}
+
+.navbar-default{
+	background-color: #ffcccc;
+}
+
+#index-background{
+	background-color: #ffcccc;
+	min-height: 100vh;
+	height: 100%;
+	margin-bottom
+}
+
+body{
+	background-color: darkgrey;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 14;
+}
+
+#bottom-index-bar{
+	background-color: #ffcccc;
+	margin-top: 20px;
+	min-width: 100vh;
+	width:100%;
+	border-radius: 3px;
+	height:52px;
+}
+
+#about-divider{
+	border-bottom:1px;
+	border-bottom-style:solid;
+	border-color:darkgrey;
+}
+
+.main-text{
+	padding-left: 15%;
+	padding-right: 15%;
+}
