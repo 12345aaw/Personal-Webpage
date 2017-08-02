@@ -32,7 +32,7 @@ body{
 	height:52px;
 }
 
-#about-divider{
+.header-divider{
 	border-bottom:1px;
 	border-bottom-style:solid;
 	border-color:darkgrey;
@@ -41,4 +41,8 @@ body{
 .main-text{
 	padding-left: 15%;
 	padding-right: 15%;
+}
+
+li {
+	list-style-type: none;
 }
