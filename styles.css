@@ -11,7 +11,7 @@
 }
 
 #index-background{
-	background-color: #ffcccc;
+	background-color: #ffcccc; /* pink */
 	min-height: 100vh;
 	height: 100%;
 	margin-bottom
@@ -45,4 +45,12 @@ body{
 
 li {
 	list-style-type: none;
+}
+
+.jumbotron{
+	background-color: #ffcccc;
+}
+
+.jumbotron > hr {
+	border-top-color: #ffa0e4;
 }
